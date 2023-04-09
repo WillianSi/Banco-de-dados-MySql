@@ -1,0 +1,1 @@
+CALL inseriCliente(NULL, 'Carmen', '1982-05-07', '316.357.830-62', '(35) 9986655-9980', 'carmen98@hotmail.com', '58155 Balistreri Tunnel Suite 134', 'Lawton', 'Machado', '37750-000', 'MG');
